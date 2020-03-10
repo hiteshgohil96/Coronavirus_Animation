@@ -7,3 +7,7 @@ The number of positive cases increasing all over the world but also the recovery
 If the China is excluded then the recovery rate in the world becomes 11.58% and death rate is 2.66%
 
 # Spread of COVID-19 across the world 
+![World_Corona](https://user-images.githubusercontent.com/47153425/76369148-f0db1800-6308-11ea-8f59-642206e5ea93.PNG)
+
+# ANIMATION
+You can see the following code.
