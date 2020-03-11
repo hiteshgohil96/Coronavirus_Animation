@@ -14,5 +14,5 @@ If the China is excluded then the recovery rate in the world becomes 11.58% and 
 # ANIMATION
 You can see the following code.
 
-Reference sites for animation - https://plot.ly/python/scatter-plots-on-maps/
-                                https://plot.ly/python/animations/
+Reference sites for animation - https://plot.ly/python/scatter-plots-on-maps/   https://plot.ly/python/animations/
+                                
