@@ -1,5 +1,7 @@
 # Coronavirus_Animation
 
+The data set can be downloaded from https://github.com/RamiKrispin/coronavirus
+
 The CORVID-19, coronavirus, is spreading all over the world recently from China. The major countries after China affected are South Korea, Italy and 
 Iran. But the spread is not limited as of recent cases, it is seen that almost every country in the eastern Europe is affect and slowly it's started 
 to spread in th USA.
@@ -11,3 +13,6 @@ If the China is excluded then the recovery rate in the world becomes 11.58% and 
 
 # ANIMATION
 You can see the following code.
+
+Reference sites for animation - https://plot.ly/python/scatter-plots-on-maps/
+                                https://plot.ly/python/animations/
